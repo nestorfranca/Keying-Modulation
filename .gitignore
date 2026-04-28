@@ -7,7 +7,12 @@
 # Permite arquivos SystemVerilog
 !*.sv
 
+# Permitir arquivos .py
+!param.py
+
+
 # Permitir arquivos padrão do repositorio
 !.gitignore
 !LICENSE
 !README.md
+
